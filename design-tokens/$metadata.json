@@ -18,6 +18,18 @@
     "semantic/modes/main-color/hi-turquoise",
     "semantic/modes/main-color/hi-purple",
     "semantic/modes/main-color/hi-red",
-    "semantic/style"
+    "semantic/style",
+    "HI Color collection/Mode 1",
+    "Palette/Light",
+    "Palette/Dark",
+    "Typography/Primary",
+    "Typography/Secondary",
+    "Theme/HI 1",
+    "Theme/HI 2",
+    "Spacing/default",
+    "Size/medium",
+    "Size/large",
+    "Size/small",
+    "breakpoints/Mode 1"
   ]
 }

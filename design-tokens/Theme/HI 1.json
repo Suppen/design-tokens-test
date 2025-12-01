@@ -1,0 +1,20 @@
+{
+  "font-weight": {
+    "medium": {
+      "$type": "text",
+      "$value": "{HI.font-weight.medium}"
+    },
+    "semibold": {
+      "$type": "text",
+      "$value": "{HI.font-weight.Semi Bold}"
+    },
+    "regular": {
+      "$type": "text",
+      "$value": "{HI.font-weight.Regular}"
+    },
+    "italic": {
+      "$type": "text",
+      "$value": "{HI.font-weight.Italic}"
+    }
+  }
+}

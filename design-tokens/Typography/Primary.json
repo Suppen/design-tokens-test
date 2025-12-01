@@ -1,0 +1,30 @@
+{
+  "HI": {
+    "font-family": {
+      "$type": "text",
+      "$value": "Lato"
+    },
+    "font-weight": {
+      "Light": {
+        "$type": "text",
+        "$value": "Light"
+      },
+      "Regular": {
+        "$type": "text",
+        "$value": "Regular"
+      },
+      "Semi Bold": {
+        "$type": "text",
+        "$value": "SemiBold"
+      },
+      "Italic": {
+        "$type": "text",
+        "$value": "Italic"
+      },
+      "medium": {
+        "$type": "text",
+        "$value": "Medium"
+      }
+    }
+  }
+}
