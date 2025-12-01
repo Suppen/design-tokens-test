@@ -76,7 +76,7 @@
     },
     "radius_max": {
       "$type": "number",
-      "$value": 999
+      "$value": 9999
     }
   },
   "Input field": {
