@@ -132,6 +132,17 @@
           "color": "rgba(0,0,0,0.16)"
         }
       ]
+    },
+    "Super spread": {
+      "$type": "boxShadow",
+      "$value": {
+        "color": "#00000005",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 40,
+        "spread": 25
+      }
     }
   },
   "opacity": {
