@@ -62,7 +62,7 @@
     },
     "contrastText": {
       "$type": "color",
-      "$value": "#ffffffde"
+      "$value": "#fffffff2"
     },
     "_states": {
       "hover": {
@@ -84,7 +84,7 @@
     },
     "hiBlueText": {
       "$type": "color",
-      "$value": "{HI blue.900}"
+      "$value": "{HI blue.700}"
     },
     "extraLight": {
       "$type": "color",
@@ -97,6 +97,10 @@
     "ConstentDarkBlue": {
       "$type": "color",
       "$value": "{HI blue.700}"
+    },
+    "hiicon": {
+      "$type": "color",
+      "$value": "{HI blue.600}"
     }
   },
   "Secondary (Hi turqoise)": {
@@ -131,7 +135,7 @@
       },
       "outlinedBorder": {
         "$type": "color",
-        "$value": "#33cccc80"
+        "$value": "#20797c80"
       }
     },
     "turqoiseText": {
@@ -427,6 +431,14 @@
     "paper-elevation-3": {
       "$type": "color",
       "$value": "#2f66c714"
+    },
+    "default hi bg (Light blue)": {
+      "$type": "color",
+      "$value": "#fcfdff"
+    },
+    "paper-elevation-0 (White))": {
+      "$type": "color",
+      "$value": "#ffffff"
     }
   },
   "elevation": {

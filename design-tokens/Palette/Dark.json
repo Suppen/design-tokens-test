@@ -54,7 +54,7 @@
     },
     "dark": {
       "$type": "color",
-      "$value": "{HI blue.400}"
+      "$value": "{HI blue.300}"
     },
     "light": {
       "$type": "color",
@@ -79,7 +79,7 @@
       },
       "outlinedBorder": {
         "$type": "color",
-        "$value": "#4b80df99"
+        "$value": "#4b80dfb3"
       }
     },
     "hiBlueText": {
@@ -88,7 +88,7 @@
     },
     "extraLight": {
       "$type": "color",
-      "$value": "{HI blue.100}"
+      "$value": "{HI blue.600}"
     },
     "icon": {
       "$type": "color",
@@ -97,6 +97,10 @@
     "ConstentDarkBlue": {
       "$type": "color",
       "$value": "{HI blue.700}"
+    },
+    "hiicon": {
+      "$type": "color",
+      "$value": "#e3f2fdcc"
     }
   },
   "Secondary (Hi turqoise)": {
@@ -106,7 +110,7 @@
     },
     "dark": {
       "$type": "color",
-      "$value": "{HI Turqoise.700}"
+      "$value": "{HI Turqoise.300}"
     },
     "light": {
       "$type": "color",
@@ -131,7 +135,7 @@
       },
       "outlinedBorder": {
         "$type": "color",
-        "$value": "#3bbec380"
+        "$value": "#3bbec3b3"
       }
     },
     "turqoiseText": {
@@ -427,6 +431,14 @@
     "paper-elevation-3": {
       "$type": "color",
       "$value": "#4b80df1f"
+    },
+    "default hi bg (Light blue)": {
+      "$type": "color",
+      "$value": "#030a1d"
+    },
+    "paper-elevation-0 (White))": {
+      "$type": "color",
+      "$value": "#17223e"
     }
   },
   "elevation": {
