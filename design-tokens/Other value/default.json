@@ -77,6 +77,38 @@
     "radius_max": {
       "$type": "number",
       "$value": 9999
+    },
+    "small": {
+      "$type": "number",
+      "$value": 4
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 6
+    },
+    "xlarge": {
+      "$type": "number",
+      "$value": 12
+    },
+    "xxlarge": {
+      "$type": "number",
+      "$value": 16
+    },
+    "large": {
+      "$type": "number",
+      "$value": 8
+    },
+    "xsmall": {
+      "$type": "number",
+      "$value": 2
+    },
+    "none": {
+      "$type": "number",
+      "$value": 0
+    },
+    "full": {
+      "$type": "number",
+      "$value": 20
     }
   },
   "Input field": {
@@ -155,6 +187,24 @@
         "$type": "number",
         "$value": 90
       }
+    }
+  },
+  "Border_width": {
+    "defaut": {
+      "$type": "number",
+      "$value": 1
+    },
+    "strong": {
+      "$type": "number",
+      "$value": 2
+    },
+    "hove": {
+      "$type": "number",
+      "$value": 3
+    },
+    "none": {
+      "$type": "number",
+      "$value": 0
     }
   }
 }
