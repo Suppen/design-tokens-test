@@ -144,7 +144,7 @@
     },
     "extraLight": {
       "$type": "color",
-      "$value": "{HI Turqoise.100}"
+      "$value": "{HI Turqoise.800}"
     },
     "icon": {
       "$type": "color",
@@ -272,7 +272,7 @@
   "info": {
     "main": {
       "$type": "color",
-      "$value": "{lightBlue.400}"
+      "$value": "{lightBlue.800}"
     },
     "dark": {
       "$type": "color",

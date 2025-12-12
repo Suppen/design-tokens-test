@@ -272,7 +272,7 @@
   "info": {
     "main": {
       "$type": "color",
-      "$value": "{lightBlue.600}"
+      "$value": "{lightBlue.500}"
     },
     "dark": {
       "$type": "color",
