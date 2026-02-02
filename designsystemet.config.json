@@ -5,15 +5,22 @@
     "theme": {
       "colors": {
         "main": {
-          "accent": "#0062BA"
+          "accent": "#ba0000"
         },
         "support": {
-          "brand1": "#0D7A5F",
-          "brand2": "#5B3FA0"
+          "brand1": "#0d0f7a",
+          "brand2": "#9ca03f"
         },
-        "neutral": "#24272B"
+        "neutral": "#b704b7"
+      },
+      "overrides": {
+        "severity": {
+          "success": "#ffb608",
+          "warning": "#6d4402"
+        }
       },
       "borderRadius": 4
     }
   }
 }
+
