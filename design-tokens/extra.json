@@ -1,0 +1,9 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/schema.json",
+  "color": {
+    "primary": {
+      "$type": "color",
+      "$value": "#3366FF"
+    }
+  }
+}
