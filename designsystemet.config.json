@@ -5,7 +5,7 @@
     "theme": {
       "colors": {
         "main": {
-          "accent": "#ba0000"
+          "accent": "#c6070755"
         },
         "support": {
           "brand1": "#0d0f7a",
@@ -17,6 +17,13 @@
         "severity": {
           "success": "#ffb608",
           "warning": "#6d4402"
+        },
+        "colors": {
+          "accent": {
+            "text-subtle": {
+              "light": "#ff0000aa"
+            }
+          }
         }
       },
       "borderRadius": 4
