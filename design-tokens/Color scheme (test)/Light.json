@@ -3,7 +3,7 @@
     "blue": {
       "1": {
         "$type": "color",
-        "$value": "#ffffff"
+        "$value": "#fffffe"
       },
       "2": {
         "$type": "color",
