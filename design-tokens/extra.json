@@ -1,6 +1,6 @@
 {
   "$schema": "https://design-tokens.github.io/community-group/format/schema.json",
-  "color": {
+  "kake": {
     "primary": {
       "$type": "color",
       "$value": "#3366FF"
