@@ -3,7 +3,7 @@
   "kake": {
     "primary": {
       "$type": "color",
-      "$value": "#3366FF"
+      "$value": "#336699"
     }
   }
 }
