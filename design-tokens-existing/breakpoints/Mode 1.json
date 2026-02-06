@@ -1,0 +1,26 @@
+{
+  "xs": {
+    "$type": "dimension",
+    "$value": "27.5rem"
+  },
+  "md": {
+    "$type": "dimension",
+    "$value": "48rem"
+  },
+  "lg": {
+    "$type": "dimension",
+    "$value": "64rem"
+  },
+  "xl": {
+    "$type": "dimension",
+    "$value": "80rem"
+  },
+  "2xl": {
+    "$type": "dimension",
+    "$value": "96rem"
+  },
+  "sm": {
+    "$type": "dimension",
+    "$value": "40rem"
+  }
+}

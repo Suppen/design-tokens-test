@@ -1,0 +1,70 @@
+{
+  "color": {
+    "support": {
+      "background-default": {
+        "$type": "color",
+        "$value": "{color.Secondary.background-default}"
+      },
+      "background-tinted": {
+        "$type": "color",
+        "$value": "{color.Secondary.background-tinted}"
+      },
+      "surface-default": {
+        "$type": "color",
+        "$value": "{color.Secondary.surface-default}"
+      },
+      "surface-tinted": {
+        "$type": "color",
+        "$value": "{color.Secondary.surface-tinted}"
+      },
+      "surface-hover": {
+        "$type": "color",
+        "$value": "{color.Secondary.surface-hover}"
+      },
+      "surface-active": {
+        "$type": "color",
+        "$value": "{color.Secondary.surface-active}"
+      },
+      "border-subtle": {
+        "$type": "color",
+        "$value": "{color.Secondary.border-subtle}"
+      },
+      "border-default": {
+        "$type": "color",
+        "$value": "{color.Secondary.border-default}"
+      },
+      "border-strong": {
+        "$type": "color",
+        "$value": "{color.Secondary.border-strong}"
+      },
+      "base-default": {
+        "$type": "color",
+        "$value": "{color.Secondary.base-default}"
+      },
+      "base-hover": {
+        "$type": "color",
+        "$value": "{color.Secondary.base-hover}"
+      },
+      "base-active": {
+        "$type": "color",
+        "$value": "{color.Secondary.base-active}"
+      },
+      "text-subtle": {
+        "$type": "color",
+        "$value": "{color.Secondary.text-subtle}"
+      },
+      "text-default": {
+        "$type": "color",
+        "$value": "{color.Secondary.text-default}"
+      },
+      "base-contrast-subtle": {
+        "$type": "color",
+        "$value": "{color.Secondary.base-contrast-subtle}"
+      },
+      "base-contrast-default": {
+        "$type": "color",
+        "$value": "{color.Secondary.base-contrast-default}"
+      }
+    }
+  }
+}
