@@ -1,0 +1,74 @@
+[
+  {
+    "id": "color-scheme-light",
+    "name": "Light",
+    "group": "Color scheme",
+    "selectedTokenSets": {
+      "primitives/modes/color-scheme/light/theme": "enabled"
+    }
+  },
+  {
+    "id": "color-scheme-dark",
+    "name": "Dark",
+    "group": "Color scheme",
+    "selectedTokenSets": {
+      "primitives/modes/color-scheme/dark/theme": "enabled"
+    }
+  },
+  {
+    "id": "theme-hi",
+    "name": "HI",
+    "group": "Theme",
+    "selectedTokenSets": {
+      "themes/hi": "enabled"
+    }
+  },
+  {
+    "id": "theme-mareano",
+    "name": "Mareano",
+    "group": "Theme",
+    "selectedTokenSets": {
+      "themes/mareano": "enabled"
+    }
+  },
+  {
+    "id": "semantic",
+    "name": "Semantic",
+    "group": "Semantic",
+    "selectedTokenSets": {
+      "semantic/color": "enabled"
+    }
+  },
+  {
+    "id": "main-color-accent",
+    "name": "accent",
+    "group": "Main color",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/accent": "enabled"
+    }
+  },
+  {
+    "id": "support-color-brand1",
+    "name": "brand1",
+    "group": "Support color",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/brand1": "enabled"
+    }
+  },
+  {
+    "id": "support-color-brand2",
+    "name": "brand2",
+    "group": "Support color",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/brand2": "enabled"
+    }
+  },
+  {
+    "id": "support-color-brand3",
+    "name": "brand3",
+    "group": "Support color",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/brand3": "enabled"
+    }
+  }
+]

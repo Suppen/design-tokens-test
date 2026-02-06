@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "primitives/modes/color-scheme/light/theme",
+    "primitives/modes/color-scheme/dark/theme",
+    "themes/hi",
+    "themes/mareano",
+    "semantic/color",
+    "semantic/modes/main-color/accent",
+    "semantic/modes/support-color/brand1",
+    "semantic/modes/support-color/brand2",
+    "semantic/modes/support-color/brand3"
+  ]
+}
