@@ -5,7 +5,7 @@
     "theme": {
       "colors": {
         "main": {
-          "accent": "#0000ffaa"
+          "accent": "#0000ffab"
         },
         "support": {
           "brand1": "#0d0f7a",
@@ -21,7 +21,18 @@
         "colors": {
           "accent": {
             "text-subtle": {
-              "light": "#ff0000aa"
+              "light": "#ff0000ab",
+              "dark": "#ff0000ac"
+            },
+            "base-hover": {
+              "light": "#ff0000ad",
+              "dark": "#ff0000ae"
+            }
+          },
+          "info": {
+            "border-subtle": {
+              "light": "#00ff00",
+              "dark": "#00ff88"
             }
           }
         }
@@ -30,4 +41,3 @@
     }
   }
 }
-

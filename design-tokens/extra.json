@@ -1,9 +1,0 @@
-{
-  "$schema": "https://design-tokens.github.io/community-group/format/schema.json",
-  "kake": {
-    "primary": {
-      "$type": "color",
-      "$value": "#336699"
-    }
-  }
-}
