@@ -1,6 +1,6 @@
 {
   "Mareano": {
-    "accent": {
+    "primary": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"
@@ -66,7 +66,7 @@
         "$value": "#000000de"
       }
     },
-    "brand1": {
+    "secondary": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"
@@ -132,7 +132,7 @@
         "$value": "#ffffff"
       }
     },
-    "brand2": {
+    "tertiary": {
       "1": {
         "$type": "color",
         "$value": "#ffffff"

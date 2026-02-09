@@ -5,11 +5,11 @@
     "Mareano": {
       "colors": {
         "main": {
-          "accent": "#bed45d"
+          "primary": "#bed45d"
         },
         "support": {
-          "brand1": "#084d5c",
-          "brand2": "#30b0d5",
+          "secondary": "#084d5c",
+          "tertiary": "#30b0d5",
           "brand3": "#eadbc8"
         },
         "neutral": "#000000cc"
@@ -22,7 +22,7 @@
           "danger": "#f44336"
         },
         "colors": {
-          "accent": {
+          "primary": {
             "base-default": {
               "dark": "#bed45d"
             },

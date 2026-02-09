@@ -5,11 +5,11 @@
     "HI": {
       "colors": {
         "main": {
-          "accent": "#003366"
+          "primary": "#003366"
         },
         "support": {
-          "brand1": "#33cccc",
-          "brand2": "#9e0099",
+          "secondary": "#33cccc",
+          "tertiary": "#9e0099",
           "brand3": "#1e98f5"
         },
         "neutral": "#000000cc"
@@ -22,7 +22,7 @@
           "danger": "#f44336"
         },
         "colors": {
-          "accent": {
+          "primary": {
             "surface-tinted": {
               "light": "#00336614"
             },
@@ -46,7 +46,7 @@
               "dark": "#000000de"
             }
           },
-          "brand1": {
+          "secondary": {
             "surface-tinted": {
               "light": "#33cccc14"
             },

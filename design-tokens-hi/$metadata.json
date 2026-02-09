@@ -14,9 +14,9 @@
     "primitives/modes/color-scheme/light/HI",
     "themes/HI",
     "semantic/color",
-    "semantic/modes/main-color/accent",
-    "semantic/modes/support-color/brand1",
-    "semantic/modes/support-color/brand2",
+    "semantic/modes/main-color/primary",
+    "semantic/modes/support-color/secondary",
+    "semantic/modes/support-color/tertiary",
     "semantic/modes/support-color/brand3",
     "semantic/style"
   ]
